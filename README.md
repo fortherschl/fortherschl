@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Andrés Castro
 
-<!--
-**fortherschl/fortherschl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante con pasión por la tecnología y el aprendizaje continuo.  
+💡 Me encanta enfrentar nuevos desafíos que me permitan crecer y desarrollar mis habilidades.  
+🌍 Vivo en Madrid, España.  
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- Java, Python 
+- HTML, CSS, JavaScript
+- Inglés  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Formación
+- Bachillerato en Ciencias Sociales
+- (Por conseguir) Grado superior de Desarrollo de Aplicaciones multiplataforma.  
+
+## 📫 Contacto
+📧 [forther04@gmail.com](mailto:forther04@gmail.com)  
+
+---
+
+✨ ¡Siempre abierto a nuevas oportunidades y aprendizaje! 🚀
