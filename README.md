@@ -11,7 +11,7 @@
 
 ## 📚 Formación
 - Bachillerato en Ciencias Sociales
-- (Por conseguir) Grado superior de Desarrollo de Aplicaciones multiplataforma.  
+- Grado superior de Desarrollo de Aplicaciones multiplataforma.  
 
 ## 📫 Contacto
 📧 [forther04@gmail.com](mailto:forther04@gmail.com)  
